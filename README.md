@@ -61,11 +61,14 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: 
-RegisterNumber:  
+RegisterNumber:22005148
 */
 Logic symbol & Truthtable
-RTL realization
-Output:
+![image](https://user-images.githubusercontent.com/119103865/213089270-6c8c62a0-4bda-4667-975f-7ee4d7ce31b3.png)
+
+RTL realization Output:
+![Uploading image.png…]()
+
 RTL
 
 Result:
