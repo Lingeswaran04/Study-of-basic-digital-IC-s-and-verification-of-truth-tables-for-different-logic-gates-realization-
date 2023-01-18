@@ -67,7 +67,8 @@ Logic symbol & Truthtable
 ![image](https://user-images.githubusercontent.com/119103865/213089270-6c8c62a0-4bda-4667-975f-7ee4d7ce31b3.png)
 
 RTL realization Output:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/119103865/213089845-e62e2070-9f97-4b1c-bc79-849c334eecb1.png)
+
 
 RTL
 
